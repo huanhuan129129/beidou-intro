@@ -1,0 +1,40 @@
+2018-05-10 14:39:51,841 INFO 3311 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 14:39:51,913 INFO 3311 [Beidou App] App Worker started, pid is 3311
+2018-05-10 14:54:37,402 INFO 3472 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 14:54:37,631 INFO 3472 [Beidou App] App Worker started, pid is 3472
+2018-05-10 15:05:12,305 INFO 3607 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:05:12,474 INFO 3607 [Beidou App] App Worker started, pid is 3607
+2018-05-10 15:05:17,180 INFO 3610 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:05:17,358 INFO 3610 [Beidou App] App Worker started, pid is 3610
+2018-05-10 15:05:19,049 INFO 3611 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:05:19,228 INFO 3611 [Beidou App] App Worker started, pid is 3611
+2018-05-10 15:07:00,273 INFO 3628 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:07:00,385 INFO 3628 [Beidou App] App Worker started, pid is 3628
+2018-05-10 15:29:36,204 INFO 3850 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:29:36,351 INFO 3850 [Beidou App] App Worker started, pid is 3850
+2018-05-10 15:29:38,171 INFO 3852 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:29:38,287 INFO 3852 [Beidou App] App Worker started, pid is 3852
+2018-05-10 15:30:28,468 INFO 3859 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:30:28,590 INFO 3859 [Beidou App] App Worker started, pid is 3859
+2018-05-10 15:30:35,719 INFO 3865 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:30:35,837 INFO 3865 [Beidou App] App Worker started, pid is 3865
+2018-05-10 15:30:37,854 INFO 3867 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:30:37,986 INFO 3867 [Beidou App] App Worker started, pid is 3867
+2018-05-10 15:30:38,076 INFO 3868 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:30:38,212 INFO 3868 [Beidou App] App Worker started, pid is 3868
+2018-05-10 15:30:39,981 INFO 3869 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:30:40,114 INFO 3869 [Beidou App] App Worker started, pid is 3869
+2018-05-10 15:30:50,576 INFO 3875 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:30:50,696 INFO 3875 [Beidou App] App Worker started, pid is 3875
+2018-05-10 15:30:55,960 INFO 3878 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:30:56,074 INFO 3878 [Beidou App] App Worker started, pid is 3878
+2018-05-10 15:30:57,855 INFO 3880 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:30:57,968 INFO 3880 [Beidou App] App Worker started, pid is 3880
+2018-05-10 15:31:06,826 INFO 3881 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:31:06,945 INFO 3881 [Beidou App] App Worker started, pid is 3881
+2018-05-10 15:31:08,764 INFO 3883 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:31:08,886 INFO 3883 [Beidou App] App Worker started, pid is 3883
+2018-05-10 15:31:09,428 INFO 3884 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:31:09,553 INFO 3884 [Beidou App] App Worker started, pid is 3884
+2018-05-10 15:31:10,742 INFO 3885 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/wrigley/work/beidou/beidou-hand/client' }
+2018-05-10 15:31:10,858 INFO 3885 [Beidou App] App Worker started, pid is 3885

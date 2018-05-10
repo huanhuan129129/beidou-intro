@@ -1,0 +1,322 @@
+{
+  "keys": "/Users/wrigley/work/beidou/beidou-hand/config/config.default.js",
+  "isomorphic": {
+    "universal": {
+      "assets": "/Users/wrigley/work/beidou/beidou-hand/config/config.default.js",
+      "assetsFilePath": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-isomorphic@1.0.0@beidou-isomorphic/config/config.default.js"
+    },
+    "polyfill": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-isomorphic@1.0.0@beidou-isomorphic/config/config.default.js",
+    "babel": {
+      "presets": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-isomorphic@1.0.0@beidou-isomorphic/config/config.default.js",
+      "babelrc": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-isomorphic@1.0.0@beidou-isomorphic/config/config.default.js",
+      "extensions": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-isomorphic@1.0.0@beidou-isomorphic/config/config.default.js",
+      "cache": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-isomorphic@1.0.0@beidou-isomorphic/config/config.default.js"
+    },
+    "alias": {
+      "client": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-isomorphic@1.0.0@beidou-isomorphic/config/config.default.js"
+    }
+  },
+  "router": {
+    "entry": "/Users/wrigley/work/beidou/beidou-hand/config/config.default.js",
+    "root": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-router@1.0.0@beidou-router/config/config.default.js",
+    "urlPrefix": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-router@1.0.0@beidou-router/config/config.default.js",
+    "exclude": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-router@1.0.0@beidou-router/config/config.default.js",
+    "mapping": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-router@1.0.0@beidou-router/config/config.default.js",
+    "ext": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-router@1.0.0@beidou-router/config/config.default.js"
+  },
+  "webpack": {
+    "custom": {
+      "configPath": "/Users/wrigley/work/beidou/beidou-hand/config/config.default.js"
+    },
+    "output": {
+      "path": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+      "filename": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+      "chunkFilename": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+      "publicPath": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js"
+    },
+    "resolve": {
+      "extensions": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+      "alias": {
+        "client": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js"
+      }
+    },
+    "devServer": {
+      "contentBase": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+      "port": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+      "noInfo": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+      "quiet": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+      "clientLogLevel": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+      "lazy": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+      "watchOptions": {
+        "aggregateTimeout": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js"
+      },
+      "headers": {
+        "X-Custom-Header": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js"
+      },
+      "stats": {
+        "colors": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+        "chunks": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js"
+      },
+      "publicPath": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js",
+      "hot": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/config/config.default.js"
+    }
+  },
+  "middleware": "/Users/wrigley/work/beidou/beidou-hand/config/config.local.js",
+  "robot": {
+    "ua": "/Users/wrigley/work/beidou/beidou-hand/config/config.local.js"
+  },
+  "session": {
+    "maxAge": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "useSession": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "cookieName": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "sessionName": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "headerName": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "bodyName": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "queryName": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.local.js",
+      "maxAge": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "policy": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "checkAddress": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-onerror@2.0.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-onerror@2.0.0@egg-onerror/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js",
+      "development": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fields": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "files": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "fastReady": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js",
+      "file": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "dir": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "dynamic": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "preload": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "buffer": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "maxFiles": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-view-react@1.0.3@beidou-view-react/config/config.default.js",
+    "cache": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-view@2.1.0@egg-view/config/config.local.js",
+    "defaultExtension": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-view-react@1.0.3@beidou-view-react/config/config.default.js",
+    "defaultViewEngine": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-view-react@1.0.3@beidou-view-react/config/config.default.js",
+    "mapping": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js"
+  },
+  "react": {
+    "middlewares": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-view-react@1.0.3@beidou-view-react/config/config.default.js",
+    "beautify": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-view-react@1.0.3@beidou-view-react/config/config.default.js",
+    "cache": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-view-react@1.0.3@beidou-view-react/config/config.local.js",
+    "static": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-view-react@1.0.3@beidou-view-react/config/config.default.js",
+    "doctype": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-view-react@1.0.3@beidou-view-react/config/config.default.js",
+    "assetHost": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-view-react@1.0.3@beidou-view-react/config/config.default.js",
+    "assetPath": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-view-react@1.0.3@beidou-view-react/config/config.default.js"
+  },
+  "env": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-core@1.0.4@beidou-core/config/config.default.js",
+  "name": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "proxy": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "protocolHeaders": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "ipHeaders": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "hostHeaders": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "version": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "description": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "main": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "dependencies": {
+      "beidou-cli": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "beidou-core": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "react": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "react-dom": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    },
+    "devDependencies": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "scripts": {
+      "start": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "debug": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "stop": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "dev": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "build": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "build:node": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    },
+    "author": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "license": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+  },
+  "baseDir": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "HOME": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "rundir": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-core@1.0.4@beidou-core/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "notFound": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "sitefile": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "middlewares": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "httpClient": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "encoding": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "formLimit": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "jsonLimit": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "strict": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "depth": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "parameterLimit": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "encoding": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "env": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "level": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "consoleLevel": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "outputJSON": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "buffer": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "appLogName": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "coreLogName": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "agentLogName": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "errorLogName": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "maxSockets": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "maxSockets": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "logging": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-core@1.0.4@beidou-core/config/config.default.js",
+  "workerStartTimeout": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "port": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "hostname": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "responseTimeout": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "client": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-core@1.0.4@beidou-core/config/config.default.js",
+  "core": {
+    "name": "/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-core@1.0.4@beidou-core/config/config.default.js"
+  }
+}

@@ -1,0 +1,300 @@
+2018-05-10 14:39:50,390 INFO 3311 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 14:39:50,436 INFO 3311 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 14:39:50,436 INFO 3311 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 14:39:51,893 INFO 3311 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 14:39:51,896 INFO 3311 [egg-security] use csrf middleware
+2018-05-10 14:39:51,898 INFO 3311 [egg-security] use methodnoallow middleware
+2018-05-10 14:39:51,899 INFO 3311 [egg-security] use noopen middleware
+2018-05-10 14:39:51,899 INFO 3311 [egg-security] use nosniff middleware
+2018-05-10 14:39:51,900 INFO 3311 [egg-security] use xssProtection middleware
+2018-05-10 14:39:51,900 INFO 3311 [egg-security] use xframe middleware
+2018-05-10 14:39:51,901 INFO 3311 [egg-security] use dta middleware
+2018-05-10 14:39:51,901 INFO 3311 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 14:39:51,913 INFO 3311 [egg:core] dump config after load, 5ms
+2018-05-10 14:39:51,928 INFO 3311 [egg-watcher:app] watcher start success
+2018-05-10 14:39:51,934 INFO 3311 [egg:core] dump config after ready, 3ms
+2018-05-10 14:54:36,064 INFO 3472 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 14:54:36,109 INFO 3472 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 14:54:36,109 INFO 3472 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 14:54:37,575 INFO 3472 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 14:54:37,578 INFO 3472 [egg-security] use csrf middleware
+2018-05-10 14:54:37,579 INFO 3472 [egg-security] use methodnoallow middleware
+2018-05-10 14:54:37,579 INFO 3472 [egg-security] use noopen middleware
+2018-05-10 14:54:37,579 INFO 3472 [egg-security] use nosniff middleware
+2018-05-10 14:54:37,580 INFO 3472 [egg-security] use xssProtection middleware
+2018-05-10 14:54:37,580 INFO 3472 [egg-security] use xframe middleware
+2018-05-10 14:54:37,580 INFO 3472 [egg-security] use dta middleware
+2018-05-10 14:54:37,580 INFO 3472 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 14:54:37,631 INFO 3472 [egg:core] dump config after load, 4ms
+2018-05-10 14:54:37,645 INFO 3472 [egg-watcher:app] watcher start success
+2018-05-10 14:54:37,650 INFO 3472 [egg:core] dump config after ready, 3ms
+2018-05-10 15:05:10,627 INFO 3607 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:05:10,677 INFO 3607 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:05:10,677 INFO 3607 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:05:12,447 INFO 3607 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:05:12,450 INFO 3607 [egg-security] use csrf middleware
+2018-05-10 15:05:12,451 INFO 3607 [egg-security] use methodnoallow middleware
+2018-05-10 15:05:12,452 INFO 3607 [egg-security] use noopen middleware
+2018-05-10 15:05:12,452 INFO 3607 [egg-security] use nosniff middleware
+2018-05-10 15:05:12,453 INFO 3607 [egg-security] use xssProtection middleware
+2018-05-10 15:05:12,453 INFO 3607 [egg-security] use xframe middleware
+2018-05-10 15:05:12,454 INFO 3607 [egg-security] use dta middleware
+2018-05-10 15:05:12,454 INFO 3607 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:05:12,474 INFO 3607 [egg:core] dump config after load, 4ms
+2018-05-10 15:05:12,487 INFO 3607 [egg-watcher:app] watcher start success
+2018-05-10 15:05:12,492 INFO 3607 [egg:core] dump config after ready, 3ms
+2018-05-10 15:05:15,981 INFO 3610 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:05:16,020 INFO 3610 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:05:16,020 INFO 3610 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:05:17,335 INFO 3610 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:05:17,338 INFO 3610 [egg-security] use csrf middleware
+2018-05-10 15:05:17,338 INFO 3610 [egg-security] use methodnoallow middleware
+2018-05-10 15:05:17,339 INFO 3610 [egg-security] use noopen middleware
+2018-05-10 15:05:17,339 INFO 3610 [egg-security] use nosniff middleware
+2018-05-10 15:05:17,339 INFO 3610 [egg-security] use xssProtection middleware
+2018-05-10 15:05:17,340 INFO 3610 [egg-security] use xframe middleware
+2018-05-10 15:05:17,340 INFO 3610 [egg-security] use dta middleware
+2018-05-10 15:05:17,340 INFO 3610 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:05:17,358 INFO 3610 [egg:core] dump config after load, 4ms
+2018-05-10 15:05:17,370 INFO 3610 [egg-watcher:app] watcher start success
+2018-05-10 15:05:17,375 INFO 3610 [egg:core] dump config after ready, 3ms
+2018-05-10 15:05:17,859 INFO 3611 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:05:17,896 INFO 3611 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:05:17,896 INFO 3611 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:05:19,203 INFO 3611 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:05:19,205 INFO 3611 [egg-security] use csrf middleware
+2018-05-10 15:05:19,206 INFO 3611 [egg-security] use methodnoallow middleware
+2018-05-10 15:05:19,207 INFO 3611 [egg-security] use noopen middleware
+2018-05-10 15:05:19,207 INFO 3611 [egg-security] use nosniff middleware
+2018-05-10 15:05:19,208 INFO 3611 [egg-security] use xssProtection middleware
+2018-05-10 15:05:19,208 INFO 3611 [egg-security] use xframe middleware
+2018-05-10 15:05:19,208 INFO 3611 [egg-security] use dta middleware
+2018-05-10 15:05:19,208 INFO 3611 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:05:19,227 INFO 3611 [egg:core] dump config after load, 4ms
+2018-05-10 15:05:19,240 INFO 3611 [egg-watcher:app] watcher start success
+2018-05-10 15:05:19,244 INFO 3611 [egg:core] dump config after ready, 3ms
+2018-05-10 15:06:59,050 INFO 3628 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:06:59,090 INFO 3628 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:06:59,090 INFO 3628 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:07:00,366 INFO 3628 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:07:00,369 INFO 3628 [egg-security] use csrf middleware
+2018-05-10 15:07:00,369 INFO 3628 [egg-security] use methodnoallow middleware
+2018-05-10 15:07:00,370 INFO 3628 [egg-security] use noopen middleware
+2018-05-10 15:07:00,370 INFO 3628 [egg-security] use nosniff middleware
+2018-05-10 15:07:00,370 INFO 3628 [egg-security] use xssProtection middleware
+2018-05-10 15:07:00,371 INFO 3628 [egg-security] use xframe middleware
+2018-05-10 15:07:00,371 INFO 3628 [egg-security] use dta middleware
+2018-05-10 15:07:00,371 INFO 3628 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:07:00,385 INFO 3628 [egg:core] dump config after load, 5ms
+2018-05-10 15:07:00,398 INFO 3628 [egg-watcher:app] watcher start success
+2018-05-10 15:07:00,402 INFO 3628 [egg:core] dump config after ready, 3ms
+2018-05-10 15:29:34,519 INFO 3850 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:29:34,566 INFO 3850 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:29:34,566 INFO 3850 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:29:36,326 INFO 3850 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:29:36,328 INFO 3850 [egg-security] use csrf middleware
+2018-05-10 15:29:36,329 INFO 3850 [egg-security] use methodnoallow middleware
+2018-05-10 15:29:36,330 INFO 3850 [egg-security] use noopen middleware
+2018-05-10 15:29:36,330 INFO 3850 [egg-security] use nosniff middleware
+2018-05-10 15:29:36,331 INFO 3850 [egg-security] use xssProtection middleware
+2018-05-10 15:29:36,331 INFO 3850 [egg-security] use xframe middleware
+2018-05-10 15:29:36,332 INFO 3850 [egg-security] use dta middleware
+2018-05-10 15:29:36,332 INFO 3850 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:29:36,351 INFO 3850 [egg:core] dump config after load, 9ms
+2018-05-10 15:29:36,364 INFO 3850 [egg-watcher:app] watcher start success
+2018-05-10 15:29:36,368 INFO 3850 [egg:core] dump config after ready, 2ms
+2018-05-10 15:29:36,908 INFO 3852 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:29:36,954 INFO 3852 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:29:36,954 INFO 3852 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:29:38,267 INFO 3852 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:29:38,269 INFO 3852 [egg-security] use csrf middleware
+2018-05-10 15:29:38,270 INFO 3852 [egg-security] use methodnoallow middleware
+2018-05-10 15:29:38,270 INFO 3852 [egg-security] use noopen middleware
+2018-05-10 15:29:38,270 INFO 3852 [egg-security] use nosniff middleware
+2018-05-10 15:29:38,271 INFO 3852 [egg-security] use xssProtection middleware
+2018-05-10 15:29:38,271 INFO 3852 [egg-security] use xframe middleware
+2018-05-10 15:29:38,271 INFO 3852 [egg-security] use dta middleware
+2018-05-10 15:29:38,271 INFO 3852 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:29:38,287 INFO 3852 [egg:core] dump config after load, 4ms
+2018-05-10 15:29:38,300 INFO 3852 [egg-watcher:app] watcher start success
+2018-05-10 15:29:38,305 INFO 3852 [egg:core] dump config after ready, 3ms
+2018-05-10 15:30:27,171 INFO 3859 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:30:27,212 INFO 3859 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:30:27,212 INFO 3859 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:30:28,570 INFO 3859 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:30:28,573 INFO 3859 [egg-security] use csrf middleware
+2018-05-10 15:30:28,573 INFO 3859 [egg-security] use methodnoallow middleware
+2018-05-10 15:30:28,574 INFO 3859 [egg-security] use noopen middleware
+2018-05-10 15:30:28,574 INFO 3859 [egg-security] use nosniff middleware
+2018-05-10 15:30:28,574 INFO 3859 [egg-security] use xssProtection middleware
+2018-05-10 15:30:28,575 INFO 3859 [egg-security] use xframe middleware
+2018-05-10 15:30:28,575 INFO 3859 [egg-security] use dta middleware
+2018-05-10 15:30:28,575 INFO 3859 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:30:28,590 INFO 3859 [egg:core] dump config after load, 5ms
+2018-05-10 15:30:28,603 INFO 3859 [egg-watcher:app] watcher start success
+2018-05-10 15:30:28,610 INFO 3859 [egg:core] dump config after ready, 4ms
+2018-05-10 15:30:34,457 INFO 3865 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:30:34,496 INFO 3865 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:30:34,496 INFO 3865 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:30:35,815 INFO 3865 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:30:35,818 INFO 3865 [egg-security] use csrf middleware
+2018-05-10 15:30:35,819 INFO 3865 [egg-security] use methodnoallow middleware
+2018-05-10 15:30:35,819 INFO 3865 [egg-security] use noopen middleware
+2018-05-10 15:30:35,819 INFO 3865 [egg-security] use nosniff middleware
+2018-05-10 15:30:35,820 INFO 3865 [egg-security] use xssProtection middleware
+2018-05-10 15:30:35,820 INFO 3865 [egg-security] use xframe middleware
+2018-05-10 15:30:35,821 INFO 3865 [egg-security] use dta middleware
+2018-05-10 15:30:35,821 INFO 3865 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:30:35,836 INFO 3865 [egg:core] dump config after load, 5ms
+2018-05-10 15:30:35,851 INFO 3865 [egg-watcher:app] watcher start success
+2018-05-10 15:30:35,856 INFO 3865 [egg:core] dump config after ready, 2ms
+2018-05-10 15:30:36,390 INFO 3867 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:30:36,434 INFO 3867 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:30:36,434 INFO 3867 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:30:37,965 INFO 3867 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:30:37,968 INFO 3867 [egg-security] use csrf middleware
+2018-05-10 15:30:37,969 INFO 3867 [egg-security] use methodnoallow middleware
+2018-05-10 15:30:37,969 INFO 3867 [egg-security] use noopen middleware
+2018-05-10 15:30:37,969 INFO 3867 [egg-security] use nosniff middleware
+2018-05-10 15:30:37,970 INFO 3867 [egg-security] use xssProtection middleware
+2018-05-10 15:30:37,970 INFO 3867 [egg-security] use xframe middleware
+2018-05-10 15:30:37,970 INFO 3867 [egg-security] use dta middleware
+2018-05-10 15:30:37,970 INFO 3867 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:30:37,986 INFO 3867 [egg:core] dump config after load, 5ms
+2018-05-10 15:30:38,005 INFO 3867 [egg-watcher:app] watcher start success
+2018-05-10 15:30:38,011 INFO 3867 [egg:core] dump config after ready, 4ms
+2018-05-10 15:30:36,583 INFO 3868 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:30:36,625 INFO 3868 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:30:36,625 INFO 3868 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:30:38,190 INFO 3868 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:30:38,193 INFO 3868 [egg-security] use csrf middleware
+2018-05-10 15:30:38,194 INFO 3868 [egg-security] use methodnoallow middleware
+2018-05-10 15:30:38,194 INFO 3868 [egg-security] use noopen middleware
+2018-05-10 15:30:38,194 INFO 3868 [egg-security] use nosniff middleware
+2018-05-10 15:30:38,195 INFO 3868 [egg-security] use xssProtection middleware
+2018-05-10 15:30:38,195 INFO 3868 [egg-security] use xframe middleware
+2018-05-10 15:30:38,195 INFO 3868 [egg-security] use dta middleware
+2018-05-10 15:30:38,195 INFO 3868 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:30:38,212 INFO 3868 [egg:core] dump config after load, 5ms
+2018-05-10 15:30:38,228 INFO 3868 [egg-watcher:app] watcher start success
+2018-05-10 15:30:38,234 INFO 3868 [egg:core] dump config after ready, 4ms
+2018-05-10 15:30:38,578 INFO 3869 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:30:38,618 INFO 3869 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:30:38,618 INFO 3869 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:30:40,092 INFO 3869 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:30:40,095 INFO 3869 [egg-security] use csrf middleware
+2018-05-10 15:30:40,096 INFO 3869 [egg-security] use methodnoallow middleware
+2018-05-10 15:30:40,096 INFO 3869 [egg-security] use noopen middleware
+2018-05-10 15:30:40,096 INFO 3869 [egg-security] use nosniff middleware
+2018-05-10 15:30:40,096 INFO 3869 [egg-security] use xssProtection middleware
+2018-05-10 15:30:40,097 INFO 3869 [egg-security] use xframe middleware
+2018-05-10 15:30:40,097 INFO 3869 [egg-security] use dta middleware
+2018-05-10 15:30:40,097 INFO 3869 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:30:40,113 INFO 3869 [egg:core] dump config after load, 5ms
+2018-05-10 15:30:40,134 INFO 3869 [egg-watcher:app] watcher start success
+2018-05-10 15:30:40,140 INFO 3869 [egg:core] dump config after ready, 3ms
+2018-05-10 15:30:49,219 INFO 3875 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:30:49,261 INFO 3875 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:30:49,261 INFO 3875 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:30:50,675 INFO 3875 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:30:50,677 INFO 3875 [egg-security] use csrf middleware
+2018-05-10 15:30:50,678 INFO 3875 [egg-security] use methodnoallow middleware
+2018-05-10 15:30:50,678 INFO 3875 [egg-security] use noopen middleware
+2018-05-10 15:30:50,679 INFO 3875 [egg-security] use nosniff middleware
+2018-05-10 15:30:50,679 INFO 3875 [egg-security] use xssProtection middleware
+2018-05-10 15:30:50,679 INFO 3875 [egg-security] use xframe middleware
+2018-05-10 15:30:50,680 INFO 3875 [egg-security] use dta middleware
+2018-05-10 15:30:50,680 INFO 3875 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:30:50,696 INFO 3875 [egg:core] dump config after load, 5ms
+2018-05-10 15:30:50,714 INFO 3875 [egg-watcher:app] watcher start success
+2018-05-10 15:30:50,720 INFO 3875 [egg:core] dump config after ready, 4ms
+2018-05-10 15:30:54,725 INFO 3878 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:30:54,766 INFO 3878 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:30:54,766 INFO 3878 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:30:56,055 INFO 3878 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:30:56,058 INFO 3878 [egg-security] use csrf middleware
+2018-05-10 15:30:56,058 INFO 3878 [egg-security] use methodnoallow middleware
+2018-05-10 15:30:56,059 INFO 3878 [egg-security] use noopen middleware
+2018-05-10 15:30:56,059 INFO 3878 [egg-security] use nosniff middleware
+2018-05-10 15:30:56,059 INFO 3878 [egg-security] use xssProtection middleware
+2018-05-10 15:30:56,059 INFO 3878 [egg-security] use xframe middleware
+2018-05-10 15:30:56,060 INFO 3878 [egg-security] use dta middleware
+2018-05-10 15:30:56,060 INFO 3878 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:30:56,074 INFO 3878 [egg:core] dump config after load, 5ms
+2018-05-10 15:30:56,088 INFO 3878 [egg-watcher:app] watcher start success
+2018-05-10 15:30:56,094 INFO 3878 [egg:core] dump config after ready, 4ms
+2018-05-10 15:30:56,602 INFO 3880 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:30:56,642 INFO 3880 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:30:56,642 INFO 3880 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:30:57,949 INFO 3880 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:30:57,951 INFO 3880 [egg-security] use csrf middleware
+2018-05-10 15:30:57,952 INFO 3880 [egg-security] use methodnoallow middleware
+2018-05-10 15:30:57,952 INFO 3880 [egg-security] use noopen middleware
+2018-05-10 15:30:57,952 INFO 3880 [egg-security] use nosniff middleware
+2018-05-10 15:30:57,952 INFO 3880 [egg-security] use xssProtection middleware
+2018-05-10 15:30:57,953 INFO 3880 [egg-security] use xframe middleware
+2018-05-10 15:30:57,953 INFO 3880 [egg-security] use dta middleware
+2018-05-10 15:30:57,953 INFO 3880 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:30:57,968 INFO 3880 [egg:core] dump config after load, 4ms
+2018-05-10 15:30:57,982 INFO 3880 [egg-watcher:app] watcher start success
+2018-05-10 15:30:57,988 INFO 3880 [egg:core] dump config after ready, 4ms
+2018-05-10 15:31:05,603 INFO 3881 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:31:05,643 INFO 3881 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:31:05,643 INFO 3881 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:31:06,925 INFO 3881 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:31:06,928 INFO 3881 [egg-security] use csrf middleware
+2018-05-10 15:31:06,929 INFO 3881 [egg-security] use methodnoallow middleware
+2018-05-10 15:31:06,929 INFO 3881 [egg-security] use noopen middleware
+2018-05-10 15:31:06,929 INFO 3881 [egg-security] use nosniff middleware
+2018-05-10 15:31:06,929 INFO 3881 [egg-security] use xssProtection middleware
+2018-05-10 15:31:06,930 INFO 3881 [egg-security] use xframe middleware
+2018-05-10 15:31:06,930 INFO 3881 [egg-security] use dta middleware
+2018-05-10 15:31:06,930 INFO 3881 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:31:06,945 INFO 3881 [egg:core] dump config after load, 5ms
+2018-05-10 15:31:06,960 INFO 3881 [egg-watcher:app] watcher start success
+2018-05-10 15:31:06,965 INFO 3881 [egg:core] dump config after ready, 2ms
+2018-05-10 15:31:07,477 INFO 3883 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:31:07,516 INFO 3883 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:31:07,516 INFO 3883 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:31:08,867 INFO 3883 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:31:08,869 INFO 3883 [egg-security] use csrf middleware
+2018-05-10 15:31:08,870 INFO 3883 [egg-security] use methodnoallow middleware
+2018-05-10 15:31:08,870 INFO 3883 [egg-security] use noopen middleware
+2018-05-10 15:31:08,871 INFO 3883 [egg-security] use nosniff middleware
+2018-05-10 15:31:08,871 INFO 3883 [egg-security] use xssProtection middleware
+2018-05-10 15:31:08,871 INFO 3883 [egg-security] use xframe middleware
+2018-05-10 15:31:08,872 INFO 3883 [egg-security] use dta middleware
+2018-05-10 15:31:08,872 INFO 3883 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:31:08,885 INFO 3883 [egg:core] dump config after load, 4ms
+2018-05-10 15:31:08,900 INFO 3883 [egg-watcher:app] watcher start success
+2018-05-10 15:31:08,905 INFO 3883 [egg:core] dump config after ready, 3ms
+2018-05-10 15:31:08,057 INFO 3884 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:31:08,094 INFO 3884 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:31:08,094 INFO 3884 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:31:09,531 INFO 3884 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:31:09,534 INFO 3884 [egg-security] use csrf middleware
+2018-05-10 15:31:09,534 INFO 3884 [egg-security] use methodnoallow middleware
+2018-05-10 15:31:09,535 INFO 3884 [egg-security] use noopen middleware
+2018-05-10 15:31:09,535 INFO 3884 [egg-security] use nosniff middleware
+2018-05-10 15:31:09,535 INFO 3884 [egg-security] use xssProtection middleware
+2018-05-10 15:31:09,536 INFO 3884 [egg-security] use xframe middleware
+2018-05-10 15:31:09,536 INFO 3884 [egg-security] use dta middleware
+2018-05-10 15:31:09,536 INFO 3884 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:31:09,553 INFO 3884 [egg:core] dump config after load, 6ms
+2018-05-10 15:31:09,572 INFO 3884 [egg-watcher:app] watcher start success
+2018-05-10 15:31:09,577 INFO 3884 [egg:core] dump config after ready, 4ms
+2018-05-10 15:31:09,474 INFO 3885 [egg:logger] init all loggers with options: {"dir":"/Users/wrigley/work/beidou/beidou-hand/logs/beidou-hand","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beidou-hand-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-05-10 15:31:09,517 INFO 3885 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-05-10 15:31:09,517 INFO 3885 [egg-schedule]: register schedule /Users/wrigley/work/beidou/beidou-hand/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-05-10 15:31:10,839 INFO 3885 [egg-static] starting static serve /public/ -> /Users/wrigley/work/beidou/beidou-hand/app/public
+2018-05-10 15:31:10,842 INFO 3885 [egg-security] use csrf middleware
+2018-05-10 15:31:10,842 INFO 3885 [egg-security] use methodnoallow middleware
+2018-05-10 15:31:10,843 INFO 3885 [egg-security] use noopen middleware
+2018-05-10 15:31:10,843 INFO 3885 [egg-security] use nosniff middleware
+2018-05-10 15:31:10,843 INFO 3885 [egg-security] use xssProtection middleware
+2018-05-10 15:31:10,844 INFO 3885 [egg-security] use xframe middleware
+2018-05-10 15:31:10,844 INFO 3885 [egg-security] use dta middleware
+2018-05-10 15:31:10,844 INFO 3885 [egg-security] compose 7 middlewares into one security middleware
+2018-05-10 15:31:10,858 INFO 3885 [egg:core] dump config after load, 4ms
+2018-05-10 15:31:10,872 INFO 3885 [egg-watcher:app] watcher start success
+2018-05-10 15:31:10,877 INFO 3885 [egg:core] dump config after ready, 3ms

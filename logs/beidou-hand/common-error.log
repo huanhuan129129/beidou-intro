@@ -1,0 +1,102 @@
+2018-05-10 15:13:02,496 ERROR 3468 nodejs.WebpackOptionsValidationError: Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema.
+ - configuration.entry should be one of these:
+   object { <key>: non-empty string | [non-empty string] } | non-empty string | [non-empty string] | function
+   -> The entry point(s) of the compilation.
+   Details:
+    * configuration.entry should not be empty.
+      -> Multiple entry bundles are created. The key is the chunk name. The value can be a string or an array.
+    * configuration.entry should be a string.
+      -> An entry point without name. The string is resolved to a module which is loaded upon startup.
+    * configuration.entry should be an array:
+      [non-empty string]
+    * configuration.entry should be an instance of function
+      -> A Function returning an entry object, an entry string, an entry array or a promise to these things.
+ - configuration.entry should be one of these:
+   object { <key>: non-empty string | [non-empty string] } | non-empty string | [non-empty string] | function
+   -> The entry point(s) of the compilation.
+   Details:
+    * configuration.entry should not be empty.
+      -> Multiple entry bundles are created. The key is the chunk name. The value can be a string or an array.
+    * configuration.entry should be a string.
+      -> An entry point without name. The string is resolved to a module which is loaded upon startup.
+    * configuration.entry should be an array:
+      [non-empty string]
+    * configuration.entry should be an instance of function
+      -> A Function returning an entry object, an entry string, an entry array or a promise to these things.
+    at webpack (/Users/wrigley/work/beidou/beidou-hand/node_modules/_webpack@3.11.0@webpack/lib/webpack.js:19:9)
+    at startServer (/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/lib/utils/index.js:172:20)
+    at Object.restartServer (/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/lib/utils/index.js:226:3)
+    at FSWatcher.watcher (/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-webpack@1.0.4@beidou-webpack/agent.js:31:16)
+    at FSWatcher.emit (events.js:160:13)
+    at FSWatcher.<anonymous> (/Users/wrigley/work/beidou/beidou-hand/node_modules/_chokidar@2.0.3@chokidar/index.js:199:15)
+    at FSWatcher._emit (/Users/wrigley/work/beidou/beidou-hand/node_modules/_chokidar@2.0.3@chokidar/index.js:241:5)
+    at FSWatcher._remove (/Users/wrigley/work/beidou/beidou-hand/node_modules/_chokidar@2.0.3@chokidar/index.js:568:50)
+    at FSWatcher.<anonymous> (/Users/wrigley/work/beidou/beidou-hand/node_modules/_chokidar@2.0.3@chokidar/lib/fsevents-handler.js:187:16)
+    at /Users/wrigley/work/beidou/beidou-hand/node_modules/_chokidar@2.0.3@chokidar/lib/fsevents-handler.js:218:13
+name: 'WebpackOptionsValidationError'
+message: 'Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema.\n - configuration.entry should be one of these:\n   object { <key>: non-empty string | [non-empty string] } | non-empty string | [non-empty string] | function\n   -> The entry point(s) of the compilation.\n   Details:\n    * configuration.entry should not be empty.\n      -> Multiple entry bundles are created. The key is the chunk name. The value can be a string or an array.\n    * configuration.entry should be a string.\n      -> An entry point without name. The string is resolved to a module which is loaded upon startup.\n    * configuration.entry should be an array:\n      [non-empty string]\n    * configuration.entry should be an instance of function\n      -> A Function returning an entry object, an entry string, an entry array or a promise to these things.'
+validationErrors: [ { keyword: 'anyOf', dataPath: '.entry', schemaPath: '#/properties/entry/anyOf', params: {}, message: 'should match some schema in anyOf', schema: [ [Object] ], parentSchema: { description: 'The entry point(s) of the compilation.', anyOf: [Array] }, data: {}, children: [ [Object], [Object], [Object], [Object], [Object], [Object] ] } ]
+pid: 3468
+hostname: WrigleydeMacBook-Pro-2.local
+
+2018-05-10 15:14:41,425 ERROR 3628 [-/::1/-/1827ms GET /news] nodejs.MODULE_NOT_FOUNDError: Cannot find module 'index.styl'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._resolveFilename (/Users/wrigley/work/beidou/beidou-hand/node_modules/_beidou-isomorphic@1.0.0@beidou-isomorphic/lib/alias.js:17:36)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wrigley/work/beidou/beidou-hand/client/index.jsx:5:1)
+    at Module._compile (module.js:660:30)
+    at loader (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babel-register@6.26.0@babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .jsx] (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babel-register@6.26.0@babel-register/lib/node.js:154:7)
+    at Module.load (module.js:573:32)
+code: 'MODULE_NOT_FOUND'
+name: 'MODULE_NOT_FOUNDError'
+pid: 3628
+hostname: WrigleydeMacBook-Pro-2.local
+
+2018-05-10 15:14:53,988 ERROR 3628 [-/::1/-/1593ms GET /news] nodejs.SyntaxError: /Users/wrigley/work/beidou/beidou-hand/client/index.styl: Unexpected character '#' (3:14)
+[0m [90m 1 | [39m
+ [90m 2 | [39mbody
+[31m[1m>[22m[39m[90m 3 | [39m  background[33m:[39m [37m[41m[1m#[22m[49m[39mf8f8f8
+ [90m   | [39m              [31m[1m^[22m[39m
+ [90m 4 | [39m[0m
+    at Parser.pp$5.raise (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:4454:13)
+    at Parser.getTokenFromCode (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:1147:10)
+    at Parser.readToken (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:776:19)
+    at Parser.<anonymous> (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:7273:20)
+    at Parser.readToken (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:6070:22)
+    at Parser.nextToken (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:766:19)
+    at Parser.next (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:691:10)
+    at Parser.eat (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:698:12)
+    at Parser.pp$1.parseStatement (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:1908:70)
+    at Parser.parseStatement (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:5910:22)
+pos: 20
+loc: Position { line: 3, column: 14 }
+_babel: true
+codeFrame: '\u001b[0m \u001b[90m 1 | \u001b[39m\n \u001b[90m 2 | \u001b[39mbody\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 3 | \u001b[39m  background\u001b[33m:\u001b[39m \u001b[37m\u001b[41m\u001b[1m#\u001b[22m\u001b[49m\u001b[39mf8f8f8\n \u001b[90m   | \u001b[39m              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 4 | \u001b[39m\u001b[0m'
+pid: 3628
+hostname: WrigleydeMacBook-Pro-2.local
+
+2018-05-10 15:29:11,257 ERROR 3628 [-/::1/-/5892ms GET /news] nodejs.SyntaxError: /Users/wrigley/work/beidou/beidou-hand/client/index.styl: Unexpected character '#' (2:14)
+[0m [90m 1 | [39mbody
+[31m[1m>[22m[39m[90m 2 | [39m  background[33m:[39m [37m[41m[1m#[22m[49m[39mf8f8f8
+ [90m   | [39m              [31m[1m^[22m[39m
+ [90m 3 | [39m[0m
+    at Parser.pp$5.raise (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:4454:13)
+    at Parser.getTokenFromCode (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:1147:10)
+    at Parser.readToken (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:776:19)
+    at Parser.<anonymous> (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:7273:20)
+    at Parser.readToken (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:6070:22)
+    at Parser.nextToken (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:766:19)
+    at Parser.next (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:691:10)
+    at Parser.eat (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:698:12)
+    at Parser.pp$1.parseStatement (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:1908:70)
+    at Parser.parseStatement (/Users/wrigley/work/beidou/beidou-hand/node_modules/_babylon@6.18.0@babylon/lib/index.js:5910:22)
+pos: 19
+loc: Position { line: 2, column: 14 }
+_babel: true
+codeFrame: '\u001b[0m \u001b[90m 1 | \u001b[39mbody\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 2 | \u001b[39m  background\u001b[33m:\u001b[39m \u001b[37m\u001b[41m\u001b[1m#\u001b[22m\u001b[49m\u001b[39mf8f8f8\n \u001b[90m   | \u001b[39m              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 3 | \u001b[39m\u001b[0m'
+pid: 3628
+hostname: WrigleydeMacBook-Pro-2.local
+
